@@ -1,0 +1,16 @@
+Lokalizacja oryginalnego pliku danych  :  Original Data\11_S╠üLA╠ĘSKIE.csv
+
+Data rozpoczęcia pracy z oryginalnym plikiem danych :  18.11.2022r.
+Uzyskania oryginalnego pliku danych jest możliwe pod adresem: https://github.com/KAIR-ISZ-ADB/laboratorium-eda-Julitaw/blob/main/12_S%E2%95%A0%C3%BCWIE%E2%95%A0%C4%98TOKRZYSKIE.csv
+
+Dane reprezentują informacje na temat sprzedaży odkurzaczy w województwie świętokrzyskim
+
+Dodatkowe informacje potrzebne aby zrozumieć i wykorzystać dane w oryginalnym pliku danych
+1. Znaczenie identyfikatorów kolumn:
+** Dni od zakupu - liczba dni od zakupu odkurzacza
+** Marka - marka zakupionego odkurzacza
+** Wiek kupującego - wiek osoby która zakupiła odkurzacz
+** Płeć kupującego - płeć osoby, która kupiła odkurzacz
+** Ocena - ocena dana zakupionemu odkurzaczowi w skali 
+
+

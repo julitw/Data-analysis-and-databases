@@ -1,0 +1,29 @@
+Lokalizacja oryginalnego pliku danych  :  folder OriginalData.
+
+Data rozpoczęcia pracy z oryginalnym plikiem danych :  04.11.2022r.
+
+Instrukcja uzyskania oryginalnego pliku danych: 
+1. Otworzyć stronę pod adresem: https://github.com/KAIR-ISZ/public_lectures/blob/master/Analiza%20i%20Bazy%20Danych%202021/Lab%202/Datasets/tb.csv
+2. Nacisnąć lewym przyciskim myszy opcję 'RAW'.
+3. Nacisnąć prawym przyciskiem myszy w dowolne miejsce strony.
+4. Z rozwijanej listy wybrać 'Zapisz jako'.
+5. Zapisać plik w wybranym miejscu na swoim urządzeniu.
+
+Dodatkowe informacje potrzebne aby zrozumieć i wykorzystać dane w oryginalnym pliku danych
+1. Znaczenie identyfikatorów kolumn:
+   'iso2' - identyfikator kraju  
+   'year' - rok przeprowadzenia badań
+   'new_sp' - suma wszystkich przypadków w danym kraju i roku
+   'f' - kobieta
+   'm' - mężczyzna 
+   'u' - nieznany
+   '04'- wiek badanego w przedziale 0-4
+   '414'- wiek badanego w przedziale 5-24
+   '014'- wiek badanego w przedziale 0-14
+   '1524'- wiek badanego w przedziale15-24
+   '2534'- wiek badanego w przedziale 25-34
+   '3544'- wiek badanego w przedziale 35-44
+   '4554'- wiek badanego w przedziale 45-54
+   '5564'- wiek badanego w przedziale 55-64
+   '65'- wiek badanego 65+
+2. W komórkach znajduje się duża liczba pustych miejsc
